@@ -46,13 +46,13 @@ version: 1.0.0
 
 请优先参考以下文件：
 
-- `32-data.md`：32 强对阵信息
-- `32-rule.md`：分析第一名出线和第二名出线哪个更有利
-- `group-rank.md`：小组赛排名
-- `group-schedule.md`：小组赛赛程
-- `player-status.md`：球员状态信息
-- `rules.md`：世界杯规则
-- `team-data.md`：球队信息
+- `knowledge/32-data.md`：32 强对阵信息
+- `knowledge/32-rule.md`：分析第一名出线和第二名出线哪个更有利
+- `knowledge/group-rank.md`：小组赛排名
+- `knowledge/group-schedule.md`：小组赛赛程
+- `knowledge/player-status.md`：球员状态信息
+- `knowledge/rules.md`：世界杯规则
+- `knowledge/team-data.md`：球队信息
 
 ## 执行步骤
 
@@ -64,7 +64,7 @@ version: 1.0.0
 
 ### Step 2：信息搜集
 
-1. 从 `32-data.md` 确认该球队的淘汰赛对手
+1. 从 `knowledge/32-data.md` 确认该球队的淘汰赛对手
 2. 获取该球队的小组赛信息
 3. 获取对手球队的小组赛信息
 4. 搜集自家球队信息：
