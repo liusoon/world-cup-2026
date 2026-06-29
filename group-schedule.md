@@ -6,7 +6,7 @@
 
 ## 数据来源
 
-- https://worldcup2026.com/
+- https://worldcup2026cn.com/
 
 ## 执行步骤
 
